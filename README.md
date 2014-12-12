@@ -10,3 +10,6 @@ A repo for code used at Prospect Hill Academy Computer Science course.
   * in - input to the programs
   * out - output of the progams
   * src - the source files
+  
+  GreyScale inspired by:
+  http://ec2-54-191-252-249.us-west-2.compute.amazonaws.com/home/login.php
