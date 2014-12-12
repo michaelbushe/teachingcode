@@ -1,0 +1,5 @@
+out
+build/classes
+build/sources.txt
+ide/IntelliJ/atlassian-ide-plugin.xml
+ide/IntelliJ/.idea/workspace.xml
